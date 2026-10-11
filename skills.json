@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Microsoft Teams",
+        "icon": "https://img.icons8.com/color/48/microsoft-teams.png"
+    },
+    {
+        "name": "Microsoft Excel",
+        "icon": "https://img.icons8.com/color/48/microsoft-excel-2019.png"
+    },
+    {
+        "name": "Microsoft Word",
+        "icon": "https://img.icons8.com/color/48/microsoft-word-2019.png"
+    },
+    {
+        "name": "Google Sheets",
+        "icon": "https://img.icons8.com/color/48/google-sheets.png"
+    },
+    {
+        "name": "Microsoft Outlook",
+        "icon": "https://img.icons8.com/color/48/microsoft-outlook-2019.png"
+    },
+    {
+        "name": "Zendesk",
+        "icon": "https://img.icons8.com/color/48/zendesk.png"
+    },
+    {
+        "name": "Google Forms",
+        "icon": "https://img.icons8.com/color/48/google-forms.png"
+    },
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/color/48/canva.png"
+    },
+    {
+        "name": "Adobe Photoshop",
+        "icon": "https://img.icons8.com/color/48/adobe-photoshop.png"
+    },
+    {
+        "name": "Adobe Illustrator",
+        "icon": "https://img.icons8.com/color/48/adobe-illustrator.png"
+    },
+    {
+        "name": "Adobe Premiere Pro",
+        "icon": "https://img.icons8.com/color/48/adobe-premiere-pro.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/figma.png"
+    },
+    {
+        "name": "CorelDRAW",
+        "icon": "https://img.icons8.com/color/48/coreldraw.png"
+    },
+    {
+        "name": "Adobe Lightroom",
+        "icon": "https://img.icons8.com/color/48/adobe-lightroom.png"
+    },
+    {
+        "name": "Meta Business Suite",
+        "icon": "https://img.icons8.com/color/48/meta.png"
+    },
+    {
+        "name": "Google Ads",
+        "icon": "https://img.icons8.com/color/48/google-ads.png"
+    },
+    {
+        "name": "Google Analytics",
+        "icon": "https://img.icons8.com/color/48/google-analytics.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/html-5.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/javascript.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/bootstrap.png"
+    },
+    {
+        "name": "Visual Studio Code",
+        "icon": "https://img.icons8.com/color/48/visual-studio-code-2019.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/fluency/48/github.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/wordpress.png"
+    }
+]
