@@ -22,7 +22,7 @@
 {
 "name": "iPhone Wedding Invitation",
 "desc": "A modern digital wedding invitation featuring an elegant iPhone-inspired design.",
-"image": "resumegen",
+"image": "resumegen.png",
 "category": "basicweb",
 "links": {
 "view": "https://iphone-wedding-invitation.vercel.app/",
