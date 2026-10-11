@@ -1,0 +1,42 @@
+[
+{
+"name": "Sweet Bakery",
+"desc": "A modern bakery website showcasing breads, donuts, and cakes with an attractive design.",
+"image": "instagrammern",
+"category": "basicweb",
+"links": {
+"view": "https://ikhwannurarifiyanto.github.io/Sweet-Bakery/",
+"code": "https://github.com/ikhwannurarifiyanto/Sweet-Bakery"
+}
+},
+{
+"name": "Digital Wedding Invitation",
+"desc": "An elegant digital wedding invitation website with beautiful visuals and personalized wedding details.",
+"image": "flipkartmern",
+"category": "basicweb",
+"links": {
+"view": "https://ikhwannurarifiyanto.github.io/Undangan-digital/",
+"code": "https://github.com/ikhwannurarifiyanto/Undangan-digital"
+}
+},
+{
+"name": "iPhone Wedding Invitation",
+"desc": "A modern digital wedding invitation featuring an elegant iPhone-inspired design.",
+"image": "resumegen",
+"category": "basicweb",
+"links": {
+"view": "https://iphone-wedding-invitation.vercel.app/",
+"code": "https://github.com/ikhwannur23/iPhone-wedding-ikhwan-dan-hmm"
+}
+},
+{
+"name": "Pexelicons",
+"desc": "A website featuring custom icons for PC folders.",
+"image": "jspro",
+"category": "basicweb",
+"links": {
+"view": "https://ikhwannurarifiyanto.github.io/Projek-1/",
+"code": "https://github.com/ikhwannurarifiyanto/Projek-1"
+}
+}
+]
